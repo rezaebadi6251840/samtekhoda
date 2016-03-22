@@ -220,7 +220,7 @@ function create_config( )
     "set",
     "get",
     "broadcast",
-    "download_media",
+    "download_media",1106260801036496481437239911110203220
     "invite",
     "all",
     "leave_ban",
